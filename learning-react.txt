@@ -1,0 +1,33 @@
+ReactJS
+
+- Largamente utiizado no front end
+
+- Não faz mais do que o js puro consegue fazer, mas faz de uma forma mais organizada
+
+- Muito utilizado para a construção de SPA
+
+- Front end desvinculado do back end
+
+- Código html manipulado pelo js
+
+
+*** Componentização ***
+
+- Arquivo index.js é o primeiro arquivo aberto pela aplicação
+
+- Um componente contém html, css e js encapsulados
+
+
+*** Aprendido no curso da Rocketseat *** 
+
+- Componentização
+
+- Roteamento com react-router
+
+- Ciclos de vida (componentDidMount)
+
+- Utilização de api
+
+- Utilização do estado
+
+- Utilização de estilização
