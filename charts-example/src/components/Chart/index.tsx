@@ -10,8 +10,9 @@ interface Props {
 
 const Chart: React.FC<Props> = ({
   data,
-  options
+  options,
 }) => {
+
   return (
     <Container>
       <Line

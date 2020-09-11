@@ -44,11 +44,16 @@ const Layout: React.FC = () => {
         fontFamily: "'Roboto', sans-serif",
         padding: 10,
         usePointStyle: true,
+      },
+      animation: {
+        onComplete: done(),
       }
     },
   });
 
-
+  function done(){
+    alert('To do');
+  }
 
   return (
     <Container>
