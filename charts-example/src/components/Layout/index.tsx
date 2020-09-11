@@ -52,7 +52,7 @@ const Layout: React.FC = () => {
   });
 
   function done(){
-    alert('To do');
+    alert('To do!');
   }
 
   return (
