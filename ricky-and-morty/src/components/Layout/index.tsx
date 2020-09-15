@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Main from '../Main';
+// import Main from '../Main';
 
 import { 
     Container,
@@ -15,7 +15,7 @@ const Layout: React.FC = () => {
                 <strong>Rick and Morty</strong>
             </Header>
 
-            <Main />
+            {/* <Main /> */}
 
             <Footer>
                 <span>Made with ❤️ by <a href="https://www.linkedin.com/in/emanuelmassafera">Emanuel Massafera</a></span>
